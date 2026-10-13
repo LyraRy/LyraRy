@@ -24,11 +24,7 @@ I work with AI agents as a team: I write the spec, split the work into tickets a
 
 ## Stack
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-build-night.svg"><img src="assets/stack-build-day.svg" alt="Build: Next.js, TypeScript, React, PostgreSQL, Zod, Python"></picture>
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-ai-night.svg"><img src="assets/stack-ai-day.svg" alt="AI and data: Claude Code, MCP, n8n, pandas, scikit-learn"></picture>
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-design-night.svg"><img src="assets/stack-design-day.svg" alt="Design and media: Blender, Photoshop, Illustrator, After Effects, Premiere, DaVinci Resolve"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-night.svg"><img src="assets/stack-day.svg" alt="Build: Next.js, TypeScript, React, PostgreSQL, Zod, Python. AI and data: Claude Code, MCP, n8n, pandas, scikit-learn. Design: Blender, Photoshop, Illustrator, After Effects, Premiere, DaVinci Resolve"></picture>
 
 Also: SQL, Playwright, Codex, OCR and LLM pipelines with structured output (JSON Schema), Excel.
 
