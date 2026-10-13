@@ -2,8 +2,7 @@
 
 <p align="center">Creative Technologist · design, development &amp; AI automation</p>
 
-<p align="center"><em>I understand the business first, design the process next, and choose the tool last.</em><br>
-Entiendo el negocio primero, diseño el proceso después, elijo la herramienta al final.</p>
+<p align="center"><em>I understand the business first, design the process next, and choose the tool last.</em></p>
 
 <p align="center">
 <a href="https://servant.lyrary.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-servant-night.svg"><img src="assets/card-servant-day.svg" alt="Servant"></picture></a>
@@ -19,10 +18,20 @@ Entiendo el negocio primero, diseño el proceso después, elijo la herramienta a
 
 **TESELA** (Morphotessellation) is my own visual system: a cell grid, print-shop depth instead of light, and zero radius, shadow or blur. These cards and the header above are drawn with it.
 
+## How I work
+
+I work with AI agents as a team: I write the spec, split the work into tickets and review every delivery before it is merged.
+
 ## Stack
 
-Next.js · TypeScript · PostgreSQL · Zod · Playwright · Python · Blender
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-build-night.svg"><img src="assets/stack-build-day.svg" alt="Build: Next.js, TypeScript, React, PostgreSQL, Zod, Python"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-ai-night.svg"><img src="assets/stack-ai-day.svg" alt="AI and data: Claude Code, MCP, n8n, pandas, scikit-learn"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-design-night.svg"><img src="assets/stack-design-day.svg" alt="Design and media: Blender, Photoshop, Illustrator, After Effects, Premiere, DaVinci Resolve"></picture>
+
+Also: SQL, Playwright, Codex, OCR and LLM pipelines with structured output (JSON Schema), Excel.
 
 ## Contact
 
-[sm730358@gmail.com](mailto:sm730358@gmail.com)
+[sm730358@gmail.com](mailto:sm730358@gmail.com) · [LinkedIn](https://www.linkedin.com/in/santiago-martinez-huerta) · [lyrary.com](https://lyrary.com)
