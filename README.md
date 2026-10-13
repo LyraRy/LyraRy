@@ -10,24 +10,26 @@
 <a href="https://lyrary.com/voyager-4/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-voyager-night.svg"><img src="assets/card-voyager-day.svg" alt="Voyager 4"></picture></a>
 </p>
 
-## Work
+<h3><picture><source media="(prefers-color-scheme: dark)" srcset="assets/title-work-night.svg"><img src="assets/title-work-day.svg" alt="Work"></picture></h3>
 
 **[Servant](https://servant.lyrary.com)** is a modular, agent-native operations platform. Its first module is a transport quoting tool that prices routes with real Mexican toll data.
 
 **[Voyager 4](https://lyrary.com/voyager-4/)** is a world-building dossier with an astronomical sky rendered on canvas.
 
-**TESELA** (Morphotessellation) is my own visual system: a cell grid, print-shop depth instead of light, and zero radius, shadow or blur. These cards and the header above are drawn with it.
+**TESELA** (Morphotessellation) is my own visual system: a cell grid, print-shop depth instead of light, and zero radius, shadow or blur. Everything drawn on this page is drawn with it.
 
-## How I work
+<h3><picture><source media="(prefers-color-scheme: dark)" srcset="assets/title-how-night.svg"><img src="assets/title-how-day.svg" alt="How I work"></picture></h3>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/how-night.svg"><img src="assets/how-day.svg" alt="Spec, then tickets, then agents build, then I review, then merge on my yes"></picture>
 
 I work with AI agents as a team: I write the spec, split the work into tickets and review every delivery before it is merged.
 
-## Stack
+<h3><picture><source media="(prefers-color-scheme: dark)" srcset="assets/title-stack-night.svg"><img src="assets/title-stack-day.svg" alt="Stack"></picture></h3>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-night.svg"><img src="assets/stack-day.svg" alt="Build: Next.js, TypeScript, React, PostgreSQL, Zod, Python. AI and data: Claude Code, MCP, n8n, pandas, scikit-learn. Design: Blender, Photoshop, Illustrator, After Effects, Premiere, DaVinci Resolve"></picture>
 
 Also: SQL, Playwright, Codex, OCR and LLM pipelines with structured output (JSON Schema), Excel.
 
-## Contact
+<h3><picture><source media="(prefers-color-scheme: dark)" srcset="assets/title-contact-night.svg"><img src="assets/title-contact-day.svg" alt="Contact"></picture></h3>
 
 [sm730358@gmail.com](mailto:sm730358@gmail.com) · [LinkedIn](https://www.linkedin.com/in/santiago-martinez-huerta) · [lyrary.com](https://lyrary.com)
